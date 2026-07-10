@@ -3,9 +3,9 @@
 This repository contains the code accompanying the paper:
 
 > **The Unreasonable Effectiveness of Cell Types in Describing Neuronal Physiological Features**
-> Harshil Sharma, Xiao-Ping Liu, Thomas Chartrand, Brian Kalmbach, Jonathan Ting, Ed Lein, Stefan Mihalas, Zhixin Lu.
+> Harshil Sharma, Xiao-Ping Liu, Thomas Chartrand, Brian Kalmbach, Ed Lein, Stefan Mihalas, Zhixin Lu.
 
-The manuscript itself is included as [main.tex](main.tex) / [main.pdf](main.pdf).
+The manuscript itself is included as [main.pdf](main.pdf).
 
 ## Overview
 
@@ -40,7 +40,8 @@ Four experiments are reported in the paper, each implemented as its own notebook
     ├── w_types_comparison/             # With one-hot cell type concatenation
     ├── celltypeinitialized_comparison/ # With cell-type pretraining initialization
     ├── DualMLP/                        # Dual MLP fusion model
-    └── onefeaturepermlp/               # Supplementary analysis: one MLP per ephys feature
+    ├── onefeaturepermlp/               # Supplementary analysis: one MLP per ephys feature
+    └── Supplement/                     # Further supplementary plotting
 ```
 
 ## Data
@@ -69,7 +70,3 @@ After filtering to genes overlapping the scGPT vocabulary (30,682 genes), droppi
 ## Citation
 
 If you use this code, please cite the paper (citation to be updated upon publication).
-
-## AI use statement
-
-ChatGPT and Perplexity were used to proofread writing and assist in literature review. Claude was used to proofread code.
