@@ -3,7 +3,7 @@
 This repository contains the code accompanying the paper:
 
 > **The Unreasonable Effectiveness of Cell Types in Describing Neuronal Physiological Features**
-> Harshil Sharma, Xiao-Ping Liu, Thomas Chartrand, Brian Kalmbach, Ed Lein, Stefan Mihalas, Zhixin Lu.
+> Harshil Sharma, Xiao-Ping Liu, Thomas Chartrand, Ed Lein, Stefan Mihalas, Zhixin Lu.
 
 The manuscript itself is included as [main.pdf](main.pdf).
 

@@ -499,4 +499,3 @@ dependencies:
       - wrapt==1.17.3
       - zarr==2.18.7
       - zarr-checksum==0.4.7
-prefix: /home/harshil.sharma/miniconda3/envs/gene2ephys
