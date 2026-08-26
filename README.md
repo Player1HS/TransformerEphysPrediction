@@ -5,7 +5,7 @@ This repository contains the code accompanying the paper:
 > **The Unreasonable Effectiveness of Cell Types in Describing Neuronal Physiological Features**
 > Harshil Sharma, Xiao-Ping Liu, Thomas Chartrand, Ed Lein, Stefan Mihalas, Zhixin Lu.
 
-The manuscript itself is included as [main.pdf](main.pdf).
+The manuscript itself is included as [main.pdf](main.pdf). Data and model files are additionally available through the project's [Zenodo repository](https://doi.org/10.5281/zenodo.20500624).
 
 ## Overview
 
@@ -46,7 +46,7 @@ Four experiments are reported in the paper, each implemented as its own notebook
 
 ## Data
 
-The study uses Patch-seq recordings of human neocortical neurons collected by the Allen Institute for Brain Science, combining the L1 GABAergic interneuron dataset of Chartrand et al. (2023) with the L2/3 glutamatergic neuron dataset of Berg et al. (2021). Raw data are available from the corresponding publications and the Allen Brain Map. The preprocessing notebook expects:
+The study uses Patch-seq recordings of human neocortical neurons collected by the Allen Institute for Brain Science, combining the L1 GABAergic interneuron dataset of Chartrand et al. (2023) with the L2/3 glutamatergic neuron dataset of Berg et al. (2021). Raw data are available from the corresponding publications, the Allen Brain Map, and [Zenodo](https://doi.org/10.5281/zenodo.20500624). The preprocessing notebook expects:
 
 - Per-cell transcriptomic CSVs (intron + exon counts, 50,281 genes) for L1 and L2/3.
 - Per-cell electrophysiological feature tables for L1 and L2/3.
