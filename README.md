@@ -31,7 +31,7 @@ Four experiments are reported in the paper, each implemented as its own notebook
 
 ```
 .
-├── main.tex / main.pdf                 # Manuscript
+├── main.pdf                            # Manuscript
 ├── environment.yml                     # Conda environment specification
 └── Human/
     ├── Data Preprocessing/
