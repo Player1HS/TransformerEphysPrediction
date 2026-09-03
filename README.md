@@ -5,7 +5,7 @@ This repository contains the code accompanying the paper:
 > **The Unreasonable Effectiveness of Cell Types in Describing Neuronal Physiological Features**
 > Harshil Sharma, Xiao-Ping Liu, Thomas Chartrand, Brian Kalmbach, Ed Lein, Stefan Mihalas, Zhixin Lu.
 
-The manuscript itself is included as [main.pdf](main.pdf). Data and model files are additionally available through the project's [Zenodo repository](https://doi.org/10.5281/zenodo.20500624).
+The manuscript itself is included as [main.pdf](main.pdf), with a preprint on [bioRxiv](https://doi.org/10.64898/2026.08.27.744753). Data and model files are additionally available through the project's [Zenodo repository](https://doi.org/10.5281/zenodo.20500624).
 
 ## Overview
 
@@ -69,4 +69,5 @@ After filtering to genes overlapping the scGPT vocabulary (30,682 genes), droppi
 
 ## Citation
 
-If you use this code, please cite the paper (citation to be updated upon publication).
+If you use this code, please cite the preprint (citation to be updated upon publication):
+Sharma, H., Liu, X.-P., Chartrand, T., Kalmbach, B., Lein, E., Mihalas, S., & Lu, Z. (2026). The Unreasonable Effectiveness of Cell Types in Describing Neuronal Physiological Features. bioRxiv, 2026.08.27.744753. https://doi.org/10.64898/2026.08.27.744753
