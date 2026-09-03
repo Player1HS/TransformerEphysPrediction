@@ -70,4 +70,5 @@ After filtering to genes overlapping the scGPT vocabulary (30,682 genes), droppi
 ## Citation
 
 If you use this code, please cite the preprint (citation to be updated upon publication):
+
 Sharma, H., Liu, X.-P., Chartrand, T., Kalmbach, B., Lein, E., Mihalas, S., & Lu, Z. (2026). The Unreasonable Effectiveness of Cell Types in Describing Neuronal Physiological Features. bioRxiv, 2026.08.27.744753. https://doi.org/10.64898/2026.08.27.744753
